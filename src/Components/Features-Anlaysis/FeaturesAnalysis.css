@@ -1,0 +1,62 @@
+.fearures-analysis
+{
+    display: flex;
+    margin:30px 45px;
+}
+.content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}
+.pa-title 
+{
+    font-size: 44px;
+    font-weight: 500;
+    margin-bottom: 14px;
+    color:black
+}
+.pa-desc
+{
+    font-size: 14px;
+    font-weight: 400;
+    color:#6d6969;
+    line-height: 23px;
+    padding-bottom: 40px;
+}
+.content
+{
+    display: flex;
+    /* align-items: center; */
+    color:#6d6969;
+    padding-bottom: 15px;
+    font-size: 14px;
+}
+.view-more.css-1e6y48t-MuiButtonBase-root-MuiButton-root
+{
+    border: none;
+    font-weight: 700;
+    margin-top: 30px;
+    max-width: 200px;
+    width: 100%;
+}
+.pa-buttons
+{
+    display: flex;
+    padding-bottom: 70px;
+}
+#pa-b.css-1rwt2y5-MuiButtonBase-root-MuiButton-root
+{
+    max-width:150px;
+    width:100%;
+    background-color: rgb(241,242,249);
+    border-radius:0;
+    color:black;
+    border: none;
+}
+#pa-b.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover{
+    background-color:#3f51b5;
+    color:white;
+    border-radius: 5px;
+}

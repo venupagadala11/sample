@@ -1,0 +1,46 @@
+.header
+{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    height: 50px;
+    /* width:100%; */
+}
+.header-container.css-19r6kue-MuiContainer-root
+{
+    background-color: white;
+    color:'black';
+    padding:0px 75px !important;
+    height: 63px;
+}
+.header.MuiPaper-root
+{
+    background-color: white;
+    color:gray;
+}
+#header-button1.css-1rwt2y5-MuiButtonBase-root-MuiButton-root
+{
+    border-radius: 25px 0px 0px 25px;
+    padding: 5px 20px;
+    text-transform: capitalize !important;
+    font-weight: 500;
+    font-size: 14px;
+}
+#header-button2.css-1rwt2y5-MuiButtonBase-root-MuiButton-root
+{
+    border-radius: 0px 25px 25px 0px;
+    margin-left: 5px;
+    text-transform: capitalize !important;
+    font-weight: 500;
+    font-size: 14px;
+}
+#header-button1.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover, #header-button2.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover
+{
+    background-color: #3f51b5;
+    color:white;
+    
+}
+.navtabs-button.css-wx0odg-MuiButtonBase-root-MuiButton-root
+{
+    text-transform: capitalize !important;
+}
